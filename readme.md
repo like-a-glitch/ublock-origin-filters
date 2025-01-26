@@ -1,7 +1,7 @@
 # How to use:
 
 - Copy the `Raw` URL of the filter you want to use.
-- Open the uBlock Origin Dashboard (⚙️ icon).
+- Open the uBlock Origin Dashboard.
 - In the `Filter lists` tab, paste the URL in the 'Import...' field.
 - Click `Apply changes`.
 
