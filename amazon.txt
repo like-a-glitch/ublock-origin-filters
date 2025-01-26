@@ -1,0 +1,1 @@
+www.amazon.$uritransform=/(?<=\/dp\/[A-Z0-9]{10}).*$//
