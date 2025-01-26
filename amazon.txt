@@ -1,1 +1,2 @@
+! Removes everything after the ASIN in the URL
 www.amazon.$uritransform=/(?<=\/dp\/[A-Z0-9]{10}).*$//
