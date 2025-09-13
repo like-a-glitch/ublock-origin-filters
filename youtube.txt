@@ -1,3 +1,2 @@
-www.youtube.com##[is-shorts]
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:has-text(Shorts)
-www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:has-text(People also watched)
+! Convert shorts to watch links
+www.youtube.com$uritransform=/\/shorts\//\/watch?v=/
